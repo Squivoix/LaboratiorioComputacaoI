@@ -1,0 +1,6 @@
+Nome: Victor, CPF: 123
+Nome: Ana, CPF: 321
+Nome: Vitor, CPF: 123
+Nome: Ana, CPF: 321
+Nome: Victor, CPF: 321
+Nome: Victor, CPF: 123
